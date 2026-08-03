@@ -80,3 +80,9 @@ VITE_API_URL=http://localhost:4000/api
 Then in the frontend, set `USE_MOCK = false` in:
 - `src/api/tasks.js`
 - `src/context/AuthContext.jsx`
+
+
+## Connect the React frontend
+
+The server is currently running on:
+`https://task-manager-server-10m7.onrender.com`
